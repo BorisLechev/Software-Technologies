@@ -1,0 +1,38 @@
+.red-border{
+    border: #ff1c17 1px solid;
+    border-radius: 3px;
+    background-color: #d3d3d3;
+    text-align: center;
+    font-size: large;
+    width: 200px;
+}
+
+.red-text{
+    color: #ff0000;
+}
+
+.green-border{
+    border: #268021 1px solid;
+    border-radius: 3px;
+    background-color: #d3d3d3;
+    text-align: center;
+    font-size: large;
+    width: 200px;
+}
+
+.green-text{
+    color: #268021;
+}
+
+.blue-border{
+    border: #2e69ff 1px solid;
+    border-radius: 3px;
+    background-color: #d3d3d3;
+    text-align: center;
+    font-size: large;
+    width: 200px;
+}
+
+.blue-text{
+    color: #2e69ff;
+}

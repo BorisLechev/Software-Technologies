@@ -1,0 +1,22 @@
+.outside{
+    border: #2e69ff 1px dotted;
+    border-radius: 3px;
+    padding: 5px;
+    width: 300px;
+}
+
+.middle{
+    border: #ff1c17 1px dashed;
+    border-radius: 3px;
+    padding: 5px;
+    width: 290px;
+ }
+
+.inner{
+    border: #268021 1px solid;
+    border-radius: 3px;
+    padding: 5px;
+    text-align: center;
+    font-size: large;
+    width: 280px;
+}
